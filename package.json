@@ -1,0 +1,29 @@
+{
+  "name": "bermudo.sia",
+  "version": "1.0.0",
+  "description": "Classroom Activities",
+  "keywords": [
+    "sia",
+    "activity",
+    "25-26"
+  ],
+  "homepage": "https://github.com/MichaBermudo/mineonly#readme",
+  "bugs": {
+    "url": "https://github.com/MichaBermudo/mineonly/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaBermudo/mineonly.git"
+  },
+  "license": "ISC",
+  "author": "Bermudo, Micha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
