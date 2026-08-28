@@ -5,18 +5,18 @@
   "keywords": [
     "sia",
     "activity",
-    "25-26"
+    "sy25-26"
   ],
-  "homepage": "https://github.com/MichaBermudo/mineonly#readme",
+  "homepage": "https://github.com/MichaBermudo/bermudo.sia#readme",
   "bugs": {
-    "url": "https://github.com/MichaBermudo/mineonly/issues"
+    "url": "https://github.com/MichaBermudo/bermudo.sia/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichaBermudo/mineonly.git"
+    "url": "git+https://github.com/MichaBermudo/bermudo.sia.git"
   },
   "license": "ISC",
-  "author": "Bermudo, Micha",
+  "author": "bermudo",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,5 @@
   },
   "dependencies": {
     "express": "^5.2.1"
-  },
-  "devDependencies": {}
+  }
 }
